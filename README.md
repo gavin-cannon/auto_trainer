@@ -6,7 +6,7 @@ This app is was meant for me to get a feel for what using Flutter might be like 
 
 The purpose of this app is two fold. One to learn a new skill as a developer and gain a greater understanding of the technical landscape. Two to build a understanding of what app development will be like and take a first stab at my workout generator to see what I am overlooking and need to account for in the future.
 
-[Software Explanation](http://youtube.link.goes.here)
+[Software Explanation](https://youtu.be/W5-adssTZtc)
 
 # Development Environment
 
